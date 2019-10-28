@@ -48,4 +48,3 @@ def naming_system
   return example
 end
 
-}
