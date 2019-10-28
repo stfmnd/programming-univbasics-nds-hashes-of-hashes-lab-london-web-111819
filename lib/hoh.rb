@@ -48,7 +48,7 @@ sub_category: {
    sub_category: {
      label: "Phylum",
      sub_category: {
-       label: "Class"
+       label: "Order"
      }
    }
  }
