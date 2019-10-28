@@ -43,7 +43,7 @@ def naming_system
   # HoH all the way to Species!
 
 hash = {
-PORTION_1: {
+sub_category: {
    label: "Kingdom",
    sub_category: {
      label: "Phylum",
